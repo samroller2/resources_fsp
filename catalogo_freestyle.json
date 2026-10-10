@@ -18,9 +18,9 @@
   ],
   "dictionaries": [
     {
-      "id": "dict_nube_simpsons",
+      "id": "dict_nube_juuniors",
       "title": "LOS SIMPSONS",
-      "description": "Homer, Bart, Springfield...            ",
+      "description": "Homer, Bart, Springfield... y mas personajes",
       "colorHex": "#FFD54F",
       "url": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/dicts/mitologia.json",
       "isPremium": false
