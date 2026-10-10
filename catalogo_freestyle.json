@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "beats": [
+    {
+      "id": "beat_nube_boom_bap_pro",
+      "name": "Boom Bap Pro",
+      "bpm": 90,
+      "url": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/beats/boombap_pro.mp3",
+      "isPremium": false
+    },
+    {
+      "id": "beat_nube_lofi_chill",
+      "name": "Lofi Chill",
+      "bpm": 85,
+      "url": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/beats/lofi_chill.mp3",
+      "isPremium": true
+    }
+  ],
+  "dictionaries": [
+    {
+      "id": "dict_nube_mitologia",
+      "title": "MITOLOGÍA",
+      "description": "Dioses griegos, romanos y nórdicos",
+      "colorHex": "#FFC107",
+      "url": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/dicts/mitologia.json",
+      "isPremium": false
+    }
+  ]
+}
