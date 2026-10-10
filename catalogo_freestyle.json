@@ -18,6 +18,14 @@
   ],
   "dictionaries": [
     {
+      "id": "dict_nube_simpsons",
+      "title": "LOS SIMPSONS",
+      "description": "Homer, Bart, Springfield...",
+      "colorHex": "#FFD54F",
+      "url": "https://raw.githubusercontent.com/.../simpsons.json",
+      "isPremium": false
+    }
+    {
       "id": "dict_nube_mitologia",
       "title": "MITOLOGÍA",
       "description": "Dioses griegos, romanos y nórdicos",
