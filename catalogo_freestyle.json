@@ -2,44 +2,49 @@
   "version": 1,
   "beats": [
     {
-      "id": "beat_nube_boom_bap_pro",
-      "name": "Boom Bap Pro",
+      "id": "beat_boombap_90",
+      "name": "Boombap Clásico",
       "bpm": 90,
-      "url": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/beats/boombap_pro.mp3",
-      "isPremium": false
+      "url": "https://raw.githubusercontent.com/samroller2/resources_fsp/main/beats/beat_90bpm.mp3",
+      "isPremium": false,
+      "version": 1
     },
     {
-      "id": "beat_nube_lofi_chill",
-      "name": "Lofi Chill",
-      "bpm": 85,
-      "url": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/beats/lofi_chill.mp3",
-      "isPremium": true
+      "id": "beat_trap_120",
+      "name": "Trap Hardcore",
+      "bpm": 120,
+      "url": "https://raw.githubusercontent.com/samroller2/resources_fsp/main/beats/beat_120bpm.mp3",
+      "isPremium": true,
+      "version": 1
     }
   ],
   "dictionaries": [
     {
-      "id": "dict_nube_juuniors",
-      "title": "LOS SIMPSONS",
-      "description": "Homer, Bart, Springfield... y mas personajes",
-      "colorHex": "#FFD54F",
-      "url": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/dicts/mitologia.json",
-      "isPremium": false
+      "id": "dict_relajado",
+      "title": "RELAJADO",
+      "description": "Palabras tranquilas para fluir sin presión.",
+      "colorHex": "#43A047",
+      "url": "https://raw.githubusercontent.com/samroller2/resources_fsp/main/dicts/dic_relajado.oz",
+      "isPremium": false,
+      "version": 1
     },
     {
-      "id": "dict_nube_simpsons",
-      "title": "LOS JUNIORS",
-      "description": "Junior, BartO, Springfield                 ...            ",
-      "colorHex": "#FFD54F",
-      "url": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/dicts/mitologia.json",
-      "isPremium": false
+      "id": "dict_ataque",
+      "title": "ATAQUE",
+      "description": "Diccionario agresivo diseñado para el punchline.",
+      "colorHex": "#F57C00",
+      "url": "https://raw.githubusercontent.com/samroller2/resources_fsp/main/dicts/dic_ataque.oz",
+      "isPremium": false,
+      "version": 1
     },
     {
-      "id": "dict_nube_mitologia",
-      "title": "MITOLOGÍA",
-      "description": "Dioses griegos, romanos y nórdicos",
-      "colorHex": "#FFC107",
-      "url": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/dicts/mitologia.json",
-      "isPremium": false
+      "id": "dict_mau",
+      "title": "ACZINO",
+      "description": "El léxico técnico del mejor de la historia.",
+      "colorHex": "#504405",
+      "url": "https://raw.githubusercontent.com/samroller2/resources_fsp/main/dicts/dic_mau.oz",
+      "isPremium": true,
+      "version": 1
     }
   ]
 }
