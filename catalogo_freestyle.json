@@ -41,8 +41,17 @@
       "id": "dict_mau",
       "title": "ACZINO",
       "description": "El léxico técnico del mejor de la historia.",
-      "colorHex": "#504405",
+      "colorHex": "#a7a7a7",
       "url": "https://raw.githubusercontent.com/samroller2/resources_fsp/main/dicts/dic_mau.oz",
+      "isPremium": true,
+      "version": 2
+    }
+    {
+      "id": "dict_explicito",
+      "title": "EXPLICITO +18",
+      "description": "El léxico técnico del mejor de la historia.",
+      "colorHex": "#a7a7a7",
+      "url": "https://raw.githubusercontent.com/samroller2/resources_fsp/main/dicts/dic_explicito.oz",
       "isPremium": true,
       "version": 1
     }
