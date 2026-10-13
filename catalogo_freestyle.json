@@ -34,7 +34,7 @@
       "description": "Diccionario agresivo diseñado para el punchline.",
       "colorHex": "#F57C00",
       "url": "https://raw.githubusercontent.com/samroller2/resources_fsp/main/dicts/dic_ataque.oz",
-      "isPremium": false,
+      "isPremium": true,
       "version": 1
     },
     {
@@ -44,7 +44,7 @@
       "colorHex": "#a7a7a7",
       "url": "https://raw.githubusercontent.com/samroller2/resources_fsp/main/dicts/dic_mau.oz",
       "isPremium": true,
-      "version": 2
+      "version": 1
     },
     {
       "id": "dict_explicito",
