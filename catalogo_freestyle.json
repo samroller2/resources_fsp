@@ -4,7 +4,7 @@
     {
       "id": "beat_boombap_90",
       "name": "Boombap Clásico",
-      "bpm": 90.67,
+      "bpm": 90,
       "url": "https://raw.githubusercontent.com/samroller2/resources_fsp/main/beats/beat_90bpm.mp3",
       "isPremium": false,
       "version": 1
@@ -12,7 +12,7 @@
     {
       "id": "beat_trap_120",
       "name": "Trap Hardcore",
-      "bpm": 120.19,
+      "bpm": 120,
       "url": "https://raw.githubusercontent.com/samroller2/resources_fsp/main/beats/beat_120bpm.mp3",
       "isPremium": false,
       "version": 1
