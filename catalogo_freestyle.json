@@ -12,9 +12,9 @@
     {
       "id": "beat_trap_120",
       "name": "Trap Hardcore",
-      "bpm": 120,
+      "bpm": 120.19,
       "url": "https://raw.githubusercontent.com/samroller2/resources_fsp/main/beats/beat_120bpm.mp3",
-      "isPremium": true,
+      "isPremium": false,
       "version": 1
     }
   ],
